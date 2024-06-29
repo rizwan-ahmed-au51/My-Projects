@@ -1,0 +1,41 @@
+.left {
+    display: flex;
+    padding-top: 4rem;
+
+}
+
+.left h6 {
+    color: #413256;
+    padding-left: 2rem;
+    font-weight: 900;
+}
+
+.left p {
+    padding-left: 2rem;
+}
+
+.left .fa {
+    color: #a3b745;
+    font-size: 2rem;
+}
+
+.right {
+    display: flex;
+    padding-top: 4rem;
+
+}
+
+.right h6 {
+    color: #413256;
+    padding-left: 2rem;
+    font-weight: 900;
+}
+
+.right p {
+    padding-left: 2rem;
+}
+
+.right .fa {
+    color: #a3b745;
+    font-size: 2rem;
+}

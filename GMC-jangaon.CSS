@@ -1,0 +1,35 @@
+body {
+    font-family: 'Source Sans Pro', Helvetica, Arial, Lucida, sans-serif;
+}
+
+.about {
+    padding: 6rem 0 8rem 8rem;
+    position: relative;
+    background-size: initial;
+    background-repeat: repeat;
+    background-blend-mode: darken;
+    background-image: url(./assets/small-dark-pattern.png);
+    background-color: rgba(65, 50, 86, 0.9);
+
+}
+
+.about h1 {
+    font-weight: bold;
+    color: #a3b745;
+    position: absolute;
+    font-size: 34px;
+}
+
+.college h1 {
+    padding: 4rem 0 3rem 0;
+    font-size: 34px;
+    font-weight: bold;
+    color: #a3b745;
+    font-weight: bold;
+}
+
+.college p {
+    color: #333333;
+    font-size: 18px;
+
+}
